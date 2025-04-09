@@ -1,6 +1,6 @@
 ## Sejam Bem-Vindos ao Meu Mundo! 👋
 
-![Gif do Gatinho](https://i.gifer.com/452i.gif)
+![Gif do Gatinho](https://media1.tenor.com/m/0lBYh0s2vGoAAAAC/cat-busy.gif)
 
 ------------
 
@@ -17,13 +17,15 @@
 
 ### Minhas Tecnologias
 
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="100px" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="100px" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="100px" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="100px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="100px" />
-          
+</p>
+
 ------------ 
           
 
