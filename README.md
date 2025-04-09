@@ -1,13 +1,31 @@
-## Bem vindos ao meu Github👋
+## Sejam Bem-Vindos ao Meu Mundo! 👋
 
-<!-- Cabeçalhos -->
+![Gif do Gatinho](https://i.gifer.com/452i.gif)
 
-# Título 1
-## Título 2
-### Título 3
-#### Título 3
-##### Título 5
-###### Título 6
+------------
+
+👻 Olá, meu nome é Jean Paul Rodrigues <br>
+👨‍💻 Sou Analista Operacional Pleno na Tahto <br>
+👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas na Estácio e Técnico em Informática pela Utramig. <br>
+⛹️‍♂️ Apaixonado por basquete <br>
+
+------------
+
+📫 [Acesse o meu LinkedIn](https://www.linkedin.com/in/jeanrodriguesnl/)
+
+------------
+
+### Minhas Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="100px" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="100px" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="100px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="100px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="100px" />
+          
+------------ 
+          
 
 <!--
 **jeanrodriguesnl/jeanrodriguesnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
